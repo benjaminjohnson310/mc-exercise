@@ -1,2 +1,14 @@
-Bob is makin it rain on em. Fix da laptop.
-Why did the chicken cross the road? Two brothas was behing him with a biscuit.
+# This is what me(Carol) and Ted did on Carols(Terrance) workstation.
+\*\* This is a addition comment Carol is watching the stros!!!! Go stros...
+# Installed windows update on Carols laptop. 
+## Answers to Selected Questions
+| Problem Domain                  | Possible Solution          |
+| ------------------------------- | --------------------------- |
+| Did not use `git pull origin `  | Eliminate markers and retry |
+| Alice did not use pull into lt. | Alice should pull into lt.  |
+| Sending pr while in feature -b  | switch to main and PR req.  |
+---
+## Thoughts
+- The re-introduction to collaboration and how to invite collaborators
+- Learned about steps to fixing conflict error and what causes them,
+  what to look out for and proper procedures for correcting them as not to re- instantiate the merge issue.
